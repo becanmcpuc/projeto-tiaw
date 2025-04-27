@@ -1,4 +1,4 @@
-# PROJETO DIW: BLOG DE BASQUETE
+# Projeto TIAW: Blog de Basquete
 Projeto referente à matéria Projeto Interdiciplinar: Aplicações Web. O tema escolhido foi "Blog de Basquete", que visa solucionar problemas sobre a falta de visibilidade do esporte no país, espalhar conteúdo e informações sobre o basquete, compilar informações dispersas em várias outras redes, disponibilizar incontáveis materiais educativos e achar grandes influenciadores e patrocínios para o projeto.
 
 ## Integrantes
