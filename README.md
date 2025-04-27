@@ -27,7 +27,7 @@ O tema do projeto foi escolhido devido ao interesse do mesmo pelos integrantes d
 Qualquer pessoa que possui o mínimo interesse em basquete.
 
 ## Organização de equipe
-| Ordem | Nome     | Papéis                                                         |
+| ID | Nome     | Papéis                                                         |
 |:-----:|:---------|:----------------------------------------------------------------|
 | 5     | Rebeca   | Product Owner, Scrum Master, Analista de Requisitos, Designer, Developer |
 | 1     | Daniel   | Scrum Master, Analista de Requisitos, Designer, Developer       |
