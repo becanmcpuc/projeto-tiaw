@@ -25,3 +25,13 @@ O tema do projeto foi escolhido devido ao interesse do mesmo pelos integrantes d
 
 ## Público-Alvo
 Qualquer pessoa que possui o mínimo interesse em basquete.
+
+## Organização de equipe
+| Ordem | Nome     | Papéis                                                         |
+|:-----:|:---------|:----------------------------------------------------------------|
+| 5     | Rebeca   | Product Owner, Scrum Master, Analista de Requisitos, Designer, Developer |
+| 1     | Daniel   | Scrum Master, Analista de Requisitos, Designer, Developer       |
+| 2     | Gabriel  | Analista de Requisitos, Developer, QA                           |
+| 3     | Guilherme| Analista de Requisitos, Developer, QA                           |
+| 4     | Gustavo  | Analista de Requisitos, Developer, QA                           |
+
