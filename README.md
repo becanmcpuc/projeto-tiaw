@@ -35,3 +35,5 @@ Qualquer pessoa que possui o mínimo interesse em basquete.
 | 3     | Guilherme| Analista de Requisitos, Developer, QA                           |
 | 4     | Gustavo  | Analista de Requisitos, Developer, QA                           |
 
+## Quadro de Controle de Tarefas
+[Acessar Kanban](https://trello.com/b/3gYQfPZt/projeto-tiaw-blog-de-basquete)
