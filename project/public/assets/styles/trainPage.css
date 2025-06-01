@@ -1,0 +1,248 @@
+:root{
+    --red: #C8102E;
+    --blue: #1D428A;
+    --gray: #D0D0D0;
+    --white: #FFFFFF;
+
+}
+
+*{
+    font-family: "Inter", sans-serif;
+}
+
+input:focus{
+    outline: none;
+}
+
+body {
+    margin: 0;
+}
+
+/* Header */
+.header{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 500px;
+    background-color: var(--gray);
+    overflow: hidden;
+    color: var(--white);
+}
+
+.header img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    filter: contrast(1.2) saturate(1.1);
+}
+
+.header .title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 100%;
+    background:  radial-gradient(circle, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0) 100%);
+}
+
+/* Section */
+
+.content{
+    width: 100%;
+    height: auto;
+    padding: 7rem 0 7rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container{
+    padding: 1rem 0 1rem 0;
+}
+
+.col-md-3{
+    display: flex;
+    justify-content: center;
+}
+
+.content .section-title{
+    font-weight: bold;
+}
+
+.my-card {
+    height: 25rem;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.my-card .btn-primary{
+    width: 100%;
+}
+
+.my-card .card-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.my-card .card-text {
+    font-size: 1rem; 
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 5; /* Permite até 3 linhas */
+    -webkit-box-orient: vertical;
+    overflow: hidden
+}
+
+
+/* Footer */
+
+.footer{
+    background-color: var(--blue);
+    color: white;
+    font-size: large;
+    height: 420px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer .footer-information, .footer-navigation{
+    width: 40%;
+    height: 65%;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer .footer-information{
+   justify-content: space-between;
+}
+
+.footer .footer-information .logo{
+    width: 46%;
+}
+
+.footer .footer-information .logo .title{
+    margin: 0;
+}
+
+.footer .footer-information .project-information {
+    width: 40%;
+    height:24%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.footer .footer-information .project-information .social-media{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer .footer-information .project-information .social-media .yt{
+    width: 40px;
+}
+
+.footer .footer-information .project-information .social-media .insta{
+    width: 35px;
+}
+
+.footer .footer-information .project-information .social-media .ttk{
+    width: 33px;
+}
+
+.footer .footer-navigation{
+    display: grid;
+    grid-template-areas: 
+    "navigation logo"
+    "newsletter logo";
+    grid-template-columns: 2fr 1fr;
+    gap: 10px;
+}
+
+.footer .footer-navigation > div.nav{
+    grid-area: navigation;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    font-size: large;
+}
+
+.footer .footer-navigation > div.nav ul{
+    padding: 0px;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 90%;
+    margin: 0;
+}
+
+.footer .footer-navigation .nav ul li{
+    list-style-type: none;
+}
+
+.footer .footer-navigation > div.newsletter{
+    grid-area: newsletter;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.footer .footer-navigation .newsletter .input-section{
+    width: 90%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.footer .footer-navigation .newsletter .input-section .input {
+    height: 45%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.footer .footer-navigation .newsletter .input-section .input input {
+    height: 95%;
+    width: 75%;
+    border-radius: 25px 0 0 25px;
+    border: none;
+    display: flex;
+}
+
+.footer .footer-navigation .newsletter .input-section .input button{
+    height: 100%;
+    width: 25%;
+    border-radius: 0 25px 25px 0;
+    border: none;
+    background-color: var(--red);
+    color: var(--white);
+    font-size: large;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.footer .footer-navigation .newsletter .input-section .input button:hover{
+    background-color: #e80d32;
+}
+
+.footer .footer-navigation > div.nba-logo{
+    grid-area: logo;
+    overflow: hidden;
+    text-align: center;
+}
+
+.footer .footer-navigation > div.nba-logo img{
+    height: 100%;
+    border-radius: 25px;
+}
