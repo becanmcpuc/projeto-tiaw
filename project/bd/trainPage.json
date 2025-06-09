@@ -1,0 +1,137 @@
+{
+  "page": 5,
+  "name": "Treino",
+  "elements": {
+    "banner": { "id": 5, "content": "https://banner5.png" },
+    "videos": [
+      {
+        "id": 1,
+        "link": "https://www.youtube.com/embed/8Mx1SM_WrLE?si=_BDpNXoXYmPe-ABQ",
+        "title": "Driblar | Basquete",
+        "desc": "Neste vídeo, você vai aprender os fundamentos básicos do drible no basquete...",
+        "category": "Drible",
+        "creator": "Sikana"
+      },
+      {
+        "id": 2,
+        "link": "https://www.youtube.com/embed/6rc2GX-zSRs?si=2krBJtx4eFMmXUFb",
+        "title": "Tipos de drible | Basquete",
+        "desc": "Neste vídeo, você vai aprender três tipos diferentes de drible...",
+        "category": "Drible",
+        "creator": "Sikana"
+      },
+      {
+        "id": 3,
+        "link": "https://www.youtube.com/embed/YayY4TQSWy8?si=17GgNZc9oVPjXcwr",
+        "title": "Drible: quando e como usar | Basquete",
+        "desc": "Neste vídeo, você vai aprender como e quando driblar...",
+        "category": "Drible",
+        "creator": "Sikana"
+      },
+      {
+        "id": 4,
+        "link": "https://www.youtube.com/embed/l5DLm-j6Ris?si=B6evDQv_2SGxBG_A",
+        "title": "Drible: parada e saída | Basquete",
+        "desc": "Neste vídeo, você vai aprender a parar e sair corretamente enquanto faz o drible...",
+        "category": "Drible",
+        "creator": "Sikana"
+      },
+      {
+        "id": 5,
+        "link": "https://www.youtube.com/embed/LSXUGARA1EM?si=QlGn5SBpOyJckDkw",
+        "title": "Drible cruzado | Basquete",
+        "desc": "Neste vídeo, você vai aprender a fazer um drible cruzado...",
+        "category": "Drible",
+        "creator": "Sikana"
+      },
+      {
+        "id": 6,
+        "link": "https://www.youtube.com/embed/LSXUGARA1EM?si=QlGn5SBpOyJckDkw",
+        "title": "Trocar de mão por trás | Basquete",
+        "desc": "Neste vídeo, você vai aprender a fazer uma troca de mão por trás do corpo...",
+        "category": "Drible",
+        "creator": "Sikana"
+      },
+      {
+        "id": 7,
+        "link": "https://www.youtube.com/embed/cFvKE8NXcww?si=NUoB-g1X_ddE0eLU",
+        "title": "Drible cruzado sob as pernas | Basquete",
+        "desc": "Neste vídeo, você vai aprender a fazer o drible cruzado sob as pernas...",
+        "category": "Drible",
+        "creator": "Sikana"
+      },
+      {
+        "id": 8,
+        "link": "https://www.youtube.com/embed/mVmdIt5okMw?si=OW48XtRPM7pFdrzH",
+        "title": "Drible com giro | Basquete",
+        "desc": "Neste vídeo, você vai aprender a fazer um drible com giro...",
+        "category": "Drible",
+        "creator": "Comunidade Baska"
+      },
+      {
+        "id": 9,
+        "link": "https://www.youtube.com/embed/Nys6iOhtjp0?si=1nZPz2VOEete7955",
+        "title": "NUNCA MAIS PERCA A BOLA ENQUANTO ESTIVER DRIBLANDO!",
+        "desc": "Vídeo básico para iniciantes no basquete...",
+        "category": "Drible",
+        "creator": "Comunidade Baska"
+      },
+      {
+        "id": 10,
+        "link": "https://www.youtube.com/embed/NxUMg65z2ZQ?si=FDJIfcYJIlwRJ3yJ",
+        "title": "Arremesso | Basquete",
+        "desc": "Neste vídeo, você vai conhecer as técnicas para um bom arremesso no basquete...",
+        "category": "Arremesso",
+        "creator": "Sikana"
+      },
+      {
+        "id": 11,
+        "link": "https://www.youtube.com/embed/bI6CLvL-QMU?si=UtpuHbujxeoxAHVB",
+        "title": "Arremesso com salto | Basquete",
+        "desc": "Neste vídeo, você vai aprender a fazer um arremesso com salto — o jump shot...",
+        "category": "Arremesso",
+        "creator": "Sikana"
+      },
+      {
+        "id": 12,
+        "link": "https://www.youtube.com/embed/K7l-4EAHiVw?si=bMjwfhTJVN5oserS",
+        "title": "Lance livre | Basquete",
+        "desc": "Neste vídeo, você vai aprender a cobrar um lance livre...",
+        "category": "Arremesso",
+        "creator": "Sikana"
+      },
+      {
+        "id": 13,
+        "link": "https://www.youtube.com/embed/1hE5HD1ubFM?si=Mbv889p2xLN5HMq0",
+        "title": "Gancho | Basquete",
+        "desc": "Neste vídeo, você vai aprender a fazer um gancho...",
+        "category": "Arremesso",
+        "creator": "Sikana"
+      },
+      {
+        "id": 14,
+        "link": "https://www.youtube.com/embed/igRdMUV0RsA?si=b0t1gWcac9nrpJ1U",
+        "title": "Passe de peito e passe picado | Basquete",
+        "desc": "Neste vídeo, você vai aprender a fazer um passe direto ou picado com duas mãos...",
+        "category": "Passe",
+        "creator": "Sikana"
+      },
+      {
+        "id": 15,
+        "link": "https://www.youtube.com/embed/OuCoFgLmWH4?si=MA8361JMhG6HLvTv",
+        "title": "Receber um passe | Basquete",
+        "desc": "Neste vídeo, você vai aprender a receber um passe feito por um companheiro de equipe...",
+        "category": "Passe",
+        "creator": "Sikana"
+      },
+      {
+        "id": 16,
+        "link": "https://www.youtube.com/embed/H1cRmtTRBrE?si=xctuh5z_gAWJVExm",
+        "title": "Passe sobre a cabeça | Basquete",
+        "desc": "Neste vídeo, você vai aprender a fazer um passe com as duas mãos sobre a cabeça...",
+        "category": "Passe",
+        "creator": "Sikana"
+      }
+    ]
+  }
+}

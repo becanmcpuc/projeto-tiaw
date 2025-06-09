@@ -1,0 +1,153 @@
+ {
+  "dataLandingPage": {
+        "page": 1,
+        "name": "Page 1",
+        "elements": {
+        "banner": { "id": 1, "content": "https://banner1.png" },
+        "images": [
+            { "id": 1, "content": "https://image1.png" },
+            { "id": 2, "content": "https://image2.png" }
+        ],
+        "titles": [
+            { "id": 1, "content": "Title 1" },
+            { "id": 2, "content": "Title 2" }
+        ],
+        "texts": [
+            { "id": 1, "content": "Lorem Ipsum Dolor" },
+            { "id": 2, "content": "Sit Amet" }
+        ]
+        }
+  },
+    "dataRulesPage": {
+        "page": 3,
+        "name": "Page 3",
+        "elements": {
+        "banner": { "id": 3, "content": "https://banner3.png" },
+        "images": [
+            { "id": 1, "content": "https://image1.png" },
+            { "id": 2, "content": "https://image2.png" }
+        ],
+        "titles": [
+            { "id": 1, "content": "Title 1" },
+            { "id": 2, "content": "Title 2" }
+        ],
+        "texts": [
+            { "id": 1, "content": "Lorem Ipsum Dolor" },
+            { "id": 2, "content": "Sit Amet" }
+        ]
+        }
+  },
+    "dataSponsorsPage": {
+        "page": 4,
+        "name": "Page 4",
+        "elements": {
+        "banner": { "id": 4, "content": "https://banner4.png" },
+        "images": [
+            { "id": 1, "content": "https://image1.png" },
+            { "id": 2, "content": "https://image2.png" }
+        ],
+        "titles": [
+            { "id": 1, "content": "Title 1" },
+            { "id": 2, "content": "Title 2" }
+        ],
+        "texts": [
+            { "id": 1, "content": "Lorem Ipsum Dolor" },
+            { "id": 2, "content": "Sit Amet" }
+        ]
+        }
+  },
+    "dataTipsPage": {
+        "page": 5,
+        "name": "Page 5",
+        "elements": {
+        "banner": { "id": 5, "content": "https://banner5.png" },
+        "videos": [
+            {
+            "id": 1,
+            "link": "https://youtube.com/1",
+            "title": "Card Title 1",
+            "category": "Category 1",
+            "creator": "Creator 1",
+            "date": "dd/mm/yy"
+            },
+            {
+            "id": 2,
+            "link": "https://youtube.com/2",
+            "title": "Card Title 2",
+            "category": "Category 2",
+            "creator": "Creator 2",
+            "date": "dd/mm/yy"
+            }
+        ]
+        }
+  },
+    "dataLeaguesPage": {
+        "page": 6,
+        "name": "Page 6",
+        "elements": {
+        "banner": { "id": 6, "content": "https://banner6.png" },
+        "sponsors": [
+            {
+            "id": 1,
+            "name": "Sponsor 1",
+            "foundation": "Foundation 1",
+            "creator": "Creator of League 1",
+            "text": "Lorem Ipsum"
+            },
+            {
+            "id": 2,
+            "name": "Sponsor 2",
+            "foundation": "Foundation 2",
+            "creator": "Creator of League 2",
+            "text": "Lorem Ipsum"
+            }
+        ]
+        }
+  },
+    "dataTeamsPage": {
+        "page": 7,
+        "name": "Page 7",
+        "elements": {
+        "banner": { "id": 7, "content": "https://banner7.png" },
+        "teams": [
+            {
+            "id": 1,
+            "name": "Team 1",
+            "category": ["Category 1", "Category 2"],
+            "payment": "R$1.00",
+            "locale": "Locale 1",
+            "phone_number": "Phone Number 1"
+            },
+            {
+            "id": 2,
+            "name": "Team 2",
+            "category": ["Category 1", "Category 2"],
+            "payment": "R$2.00",
+            "locale": "Locale 2",
+            "phone_number": "Phone Number 2"
+            }
+        ]
+        }
+  },
+    "dataAboutUsPage": {
+        "page": 8,
+        "name": "Page 8",
+        "elements": {
+        "banner": { "id": 8, "content": "https://banner8.png" },
+        "gang": [
+            {
+            "id": 1,
+            "position": "Position 1",
+            "name": "Name 1",
+            "text": "Text 1"
+            },
+            {
+            "id": 2,
+            "position": "Position 2",
+            "name": "Name 2",
+            "text": "Text 2"
+            }
+        ]
+        }
+    }
+}

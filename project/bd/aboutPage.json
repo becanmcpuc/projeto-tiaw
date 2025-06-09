@@ -1,0 +1,41 @@
+{
+    "page": 8,
+    "name": "Sobre Nós",
+    "elements": {
+        "banner": { "id": 8, "content": "https://banner8.png" },
+        "titles": [
+            { "id": 1, "content": "Visão Geral", "text-id": 1 },
+            { "id": 2, "content": "Equipe", "text-id": null }
+        ],
+        "texts": [
+            { "id": 1, 
+            "content": "Nosso time busca juntar informações espalhadas na web sobre basquete e compactá-las em um só lugar. Queremos transbordar nossa paixão em informação e espalhá-la por todo Brasil. Em uma pátria tão hostil com o esporte, visamos ajudar passionistas a se encontrarem e não perderem a esperança."}
+        ],
+        "gang": [
+            {
+            "id": 1,
+            "position": "Scrum Master",
+            "name": "Rebeca N. Moreira da Costa",
+            "text": "Desenvolvedora de Sistemas Júnior e Estudante de Sistemas de Informação. Desde que me entendo por gente, basquete faz parte da minha história. Sou torcedora #MinasNaVeia e comecei a praticar basquete com 8 anos. Porém, devido à correria da vida, me afastei da prática. Independente disso, até hoje, minha paixão pelo esporte é inexplicável e busco demonstrar um pouco dela com nosso projeto BBN."
+            },
+            {
+            "id": 2,
+            "position": "Tech Lead",
+            "name": "Daniel Isaac V. Rodrigues",
+            "text": "Text 2"
+            },
+            {
+            "id": 3,
+            "position": "Developer",
+            "name": "Guilherme Henrique Costa",
+            "text": "Text 3"
+            },
+            {
+            "id": 4,
+            "position": "Developer",
+            "name": "Gustavo Fortini T. Moreira",
+            "text": "Text 4"
+            }
+        ]
+    }
+}
