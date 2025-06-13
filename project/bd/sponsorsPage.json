@@ -1,4 +1,7 @@
 {
+  "id": 4,
+  "name": "Patrocinadores",
+  "banner": { "id": 4, "content": "BBN.png" },
   "leagues": [
     {
       "name": "NBA (National Basketball Association)",
