@@ -10,16 +10,17 @@
             { "id": 3, "content": "curry-night-night.jpg"},
             { "id": 4, "content": "bird-vs-magic.jpg" },
             { "id": 5, "content": "kareem-abdul-jabbar.jpg"},
-            { "id": 6, "content": "jordan.webp"}
+            { "id": 6, "content": "lebron.jpg"},
+            { "id": 7, "content": "jordan.webp"}
         ],
         "titles": [
             { "id": 1, "content": "Introdução", "text-id": 1 },
             { "id": 2, "content": "Como o basquete foi criado?", "text-id": 3 },
             { "id": 3, "content": "Como o basquete ascendeu?", "text-id": 4 },
             { "id": 4, "content": "Jogadores que marcaram a história", "text-id": 5 },
-            { "id": 1, "content": "Kareem Abdul-Jabbar", "text-id": 6 },
-            { "id": 2, "content": "LeBron James", "text-id": 7 },
-            { "id": 3, "content": "Michael Jordan", "text-id": 8 }
+            { "id": 5, "content": "Kareem Abdul-Jabbar", "text-id": 6 },
+            { "id": 6, "content": "LeBron James", "text-id": 7 },
+            { "id": 7, "content": "Michael Jordan", "text-id": 8 }
         ],
         "texts": [
             { "id": 1, 
