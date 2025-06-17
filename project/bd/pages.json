@@ -130,12 +130,12 @@
                     "description": "O time que marcar mais gols nesse tempo será declarado vencedor. Em caso de empate, o jogo poderá, por acordo dos capitães, ser retomado até que outro gol seja marcado."
                 }
         ],
-        "players positions": [
-                {"name": "Armador", "description": ""},
-                {"name": "Ala-Armador", "description": ""},
-                {"name": "Ala", "description": ""},
-                {"name": "Ala-Pivô", "description": ""},
-                {"name": "Pivô", "description": ""}
+        "players_positions": [
+                {"name": "Armador", "description": "Sed laoreet, lorem nec venenatis molestie, leo urna suscipit ligula, finibus fringilla ex augue ut risus. Ut ultrices posuere pretium."},
+                {"name": "Ala-Armador", "description": "Sed laoreet, lorem nec venenatis molestie, leo urna suscipit ligula, finibus fringilla ex augue ut risus. Ut ultrices posuere pretium."},
+                {"name": "Ala", "description": "Sed laoreet, lorem nec venenatis molestie, leo urna suscipit ligula, finibus fringilla ex augue ut risus. Ut ultrices posuere pretium."},
+                {"name": "Ala-Pivô", "description": "Sed laoreet, lorem nec venenatis molestie, leo urna suscipit ligula, finibus fringilla ex augue ut risus. Ut ultrices posuere pretium."},
+                {"name": "Pivô", "description": "Sed laoreet, lorem nec venenatis molestie, leo urna suscipit ligula, finibus fringilla ex augue ut risus. Ut ultrices posuere pretium."}
         ],
         "points": [
                 {"number": "3", "title": "Três Pontos", "description": "Bolas atrás da linha de três, valem 3 pontos."},
