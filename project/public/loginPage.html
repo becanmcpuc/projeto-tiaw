@@ -24,16 +24,16 @@
 
                 <div class="inputs">
                     <div class="input-section">
-                        <label for="email">Insira seu email:</label>
-                        <input type="email" name="email" class="email-input" id="email-input" placeholder="  exemplo@gmail.com">
+                        <label for="email-input">Insira seu email:</label>
+                        <input type="email" name="email" class="email-input" id="email-input" placeholder="  exemplo@gmail.com" required>
                     </div>
                     <div class="input-section">
-                        <label for="password">Insira sua senha:</label>
-                        <input type="email" name="email" class="password-input" id="password-input" placeholder="  *****">
+                        <label for="password-input">Insira sua senha:</label>
+                        <input type="password" name="password" class="password-input" id="password-input" placeholder="  *****" required>
                     </div>
                 </div>
 
-                <button class="btn-login-send">
+                <button type="submit" class="btn-login-send" id="loginButton">
                     Entrar
                 </button>
             </div>
@@ -93,5 +93,7 @@
             </div>
         </div>
     </footer>
+
+    <script src="assets/js/login.js"></script>
 </body>
 </html>

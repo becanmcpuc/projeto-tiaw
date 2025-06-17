@@ -1,476 +1,734 @@
 {
   "pages": [
     {
+      "id": "1",
+      "name": "Landing Page",
+      "banner": {
         "id": 1,
-        "name": "Landing Page",
-        "banner": { "id": 1, "content": "BBN.png" },
-        "images": [
-            { "id": 1, "content": "jordan-dunk.jpg"},
-            { "id": 2, "content": "lebron-dunk.jpg" },
-            { "id": 3, "content": "curry-night-night.jpg"},
-            { "id": 4, "content": "bird-vs-magic.jpg" },
-            { "id": 5, "content": "kareem-abdul-jabbar.jpg"},
-            { "id": 6, "content": "lebron.jpg"},
-            { "id": 7, "content": "jordan.webp"}
-        ],
-        "titles": [
-            { "id": 1, "content": "Introdução", "text-id": 1 },
-            { "id": 2, "content": "Como o basquete foi criado?", "text-id": 3 },
-            { "id": 3, "content": "Como o basquete ascendeu?", "text-id": 4 },
-            { "id": 4, "content": "Jogadores que marcaram a história", "text-id": 5 },
-            { "id": 5, "content": "Kareem Abdul-Jabbar", "text-id": 6 },
-            { "id": 6, "content": "LeBron James", "text-id": 7 },
-            { "id": 7, "content": "Michael Jordan", "text-id": 8 }
-        ],
-        "texts": [
-            { "id": 1, 
-            "content": "O basquetebol, também conhecido como basquete, é um esporte coletivo amplamente praticado no mundo todo. Ele é disputado por duas equipes compostas por cinco jogadores cada, com o principal objetivo de marcar pontos ao lançar a bola dentro da cesta do time adversário — um aro com uma rede, fixado a 3,05 metros de altura em cada extremidade da quadra. O jogo é caracterizado por sua dinamicidade, exigindo dos atletas uma combinação de diversas capacidades físicas, como agilidade, velocidade, resistência, força muscular, além de uma excelente coordenação motora e controle corporal. Durante uma partida, os jogadores se movimentam constantemente, realizando dribles, passes, arremessos e bloqueios, o que torna o basquete uma modalidade bastante intensa e estratégica." },
-            { "id": 2, "content": "As partidas são divididas em quatro períodos (ou quartos), normalmente de 10 ou 12 minutos cada, dependendo da liga ou competição. O time que soma mais pontos ao final do jogo é o vencedor. Além do aspecto físico, o basquete também desenvolve habilidades cognitivas, como o raciocínio rápido, a tomada de decisões sob pressão e o trabalho em equipe. É um esporte que promove a socialização, a disciplina e o espírito esportivo. Criado em 1891 por James Naismith, no Canadá, o basquete se popularizou rapidamente e hoje é um dos esportes mais praticados do planeta, sendo destaque em grandes eventos internacionais como os Jogos Olímpicos e a NBA (National Basketball Association), a principal liga profissional dos Estados Unidos." },
-            { "id": 3, "content": "O basquete foi criado em 1891 por James Naismith, um professor de educação física canadense que lecionava nos Estados Unidos, no Springfield College, em Massachusetts. Na época, Naismith recebeu a tarefa de desenvolver uma atividade esportiva que pudesse ser praticada em ambientes fechados durante o rigoroso inverno norte-americano e que fosse menos violenta do que os esportes tradicionais da época, como o futebol americano. Para isso, ele criou um jogo simples com 13 regras básicas e usou duas cestas de pêssegos pregadas nas paredes opostas do ginásio, a uma altura de 3,05 metros — medida que permanece até hoje. A bola era similar à de futebol, e o objetivo do jogo era arremessar a bola dentro da cesta adversária. Cada vez que isso acontecia, um jogador tinha que subir numa escada para retirar a bola, já que as cestas não eram vazadas." },
-            { "id": 4, "content": "O esporte rapidamente se popularizou nas escolas e universidades dos EUA, sendo adotado por associações como a YMCA. As regras foram sendo ajustadas, as cestas passaram a ser abertas na parte inferior, facilitando a continuidade do jogo, e a bola foi redesenhada especificamente para a modalidade. Em 1936, o esporte estreou nos Jogos Olímpicos de Berlim, consolidando-se como uma das principais modalidades do cenário esportivo mundial. Hoje, o basquete é praticado em todos os continentes, com ligas profissionais, torneios internacionais e milhões de fãs apaixonados. A visão inovadora de James Naismith transformou-se em um legado global que promove não só a competição, mas também valores como trabalho em equipe, disciplina e inclusão. Com o tempo, ligas profissionais surgiram, e o jogo ganhou alcance global, especialmente após a criação da NBA em 1946."},
-            { "id": 5, "content": "Ao longo da história do basquete, diversos jogadores se destacaram de forma tão marcante que entraram para o seleto grupo dos 'all-time players', ou seja, os maiores de todos os tempos. Esses atletas não apenas dominaram as quadras com habilidades técnicas excepcionais, mas também influenciaram gerações e ajudaram a moldar o esporte como o conhecemos hoje. Nomes como Michael Jordan, considerado por muitos o maior jogador de todos os tempos, Magic Johnson, Larry Bird, Kareem Abdul-Jabbar, Kobe Bryant, LeBron James, Oscar Schmidt e Tim Duncan são apenas alguns dos ícones que marcaram eras diferentes com seus estilos únicos e conquistas impressionantes. Cada um deles contribuiu de maneira singular para a evolução do jogo, estabelecendo recordes, vencendo títulos e deixando um legado que transcende estatísticas — inspirando jovens atletas em todo o mundo a sonhar grande e alcançar a excelência."},
-            { "id": 6, "content": "38.387pts"},
-            { "id": 7, "content": "50.033pts"},
-            { "id": 8, "content": "32.292pts"}
-        ]
-    },
-    {
-        "id": 3,
-        "name": "Página de Regras",
-        "banner": { "id": 3, "content": "regras.jpg" },
-        "images": [
-                { "id": 1, "content": "quadra.png" },
-                { "id": 2, "content": "quadra-5x5.png" },
-                { "id": 3, "content": "curry-night-night.jpg" },
-                { "id": 4, "content": "d-wayde.jpeg" },
-                { "id": 5, "content": "durant.webp" },
-                { "id": 6, "content": "giannis-antetokounmpo.jpg" },
-                { "id": 7, "content": "jokic.webp" },
-                { "id": 8, "content": "quadra-5x5.png" }
-        ],
-        "titles": [
-                { "id": 1, "content": "Regras", "text-id": 1 },
-                { "id": 2, "content": "As primeiras regras", "text-id": null},
-                { "id": 3, "content": "Início do Jogo", "text-id": 7},
-                { "id": 4, "content": "Dribles", "text-id": 2 },
-                { "id": 5, "content": "Arremessos", "text-id": 8 },
-                { "id": 6, "content": "Posição dos Jogadores", "text-id": 3},
-                { "id": 7, "content": "Movimentação", "text-id": 4},
-                { "id": 8, "content": "Faltas", "text-id": 5},
-                { "id": 9, "content": "Papel do Técnico", "text-id": 6},
-                { "id": 10, "content": "Pontuação", "text-id": null},
-                { "id": 11, "content": "Uniforme", "text-id": 9},
-                { "id": 12, "content": "Equipamentos", "text-id": 10},
-                { "id": 13, "content": "Alterações ao longo do tempo", "text-id": 11}
-        ],
-        "texts": [
-                { "id": 1, "content": "As regras do basquete, baseadas nas normas oficiais da FIBA de 2024, regem aspectos como dribles, posicionamento, faltas e tempos. O jogo é dividido em 4 períodos de 10 minutos, com intervalos de 2 minutos entre períodos e 15 minutos no intervalo. Timeouts são limitados a 2 no primeiro tempo e 3 no segundo, cada um de 1 minuto, com um relógio de posse de 24 segundos para arremessos." },
-                { "id": 2, "content": "Um jogador deve quicar a bola continuamente com uma mão enquanto se move, sem tocar com ambas as mãos simultaneamente durante o drible. Se parar de driblar, não pode recomeçar, e violações como drible duplo (retomar após segurar a bola) ou carregar a bola (colocar a mão sob a bola) resultam em perda de posse. (Artigo 21)" },
-                { "id": 3, "content": "Durante lances livres, jogadores devem estar atrás da linha de lance livre e da linha de divisão até a bola ser lançada. No salto inicial, posições específicas são designadas no círculo central. Em jogo normal, não há posições fixas, mas jogadores ofensivos não podem ficar no garrafão por mais de três segundos consecutivos enquanto sua equipe tem posse. (Artigo 24)" },
-                { "id": 4, "content": "Um jogador com a bola pode dar no máximo dois passos, depois do passo 0 (zero step), que consta no passo no momento em que o jogador recebeu a bola sem driblar e, ao parar, pode pivotar sobre um pé (pivô), mantendo o outro fixo. Andar ilegalmente (traveling) ocorre com passos extras ou mover o pé de apoio incorretamente, resultando em violação.(Artigo 25)" },
-                { "id": 5, "content": "Faltas pessoais incluem contatos ilegais como empurrar ou segurar, podendo resultar em lances livres (1, 2 ou 3, dependendo da posição em que a falta aconteceu) ou perda de posse. Faltas técnicas, por comportamento antidesportivo como xingar árbitros, resultam em um lance livre para o adversário. Faltas desqualificantes, por ações flagrantes, levam à expulsão, com o jogador saindo após cinco faltas pessoais. (Artigos 32, 36, 38, e 44)" },
-                { "id": 6, "content": "O técnico (treinador) pode chamar timeouts, é responsável pela conduta da equipe e pode ser penalizado com faltas técnicas por mau comportamento. Cada equipe pode ter até 12 jogadores e uma delegação de até 8 pessoas, incluindo assistentes. (Artigo 4)" },
-                { "id": 7, "content": "O jogo começa com um salto inicial no centro da quadra, onde dois jogadores disputam a posse da bola. A bola é arremessada por um juiz. (Artigo 9)" },
-                { "id": 8, "content": " Arremessos de campo devem ser tentados dentro de 24 segundos, com lances livres concedidos por faltas em tentativas, porém o relógio pode ser resetado para 14 segundos se a bola encostar no aro. Interferência na cesta (goaltending) é proibida quando a bola está em trajetória descendente. (Artigos 28 e 43)" },
-                { "id": 9, "content": " Os uniformes devem ter camisas com números de 0 a 99, cores idênticas para a equipe, sem objetos perigosos, como brincos, aneis, colares e outro acessórios. (Artigo 4)" },
-                { "id": 10, "content": " A quadra mede 28m x 15m para ambos os gêneros, com aro de 45cm de diâmetro e 3,05m de altura, e tabela de 1,80m x 1,20m. A bola para homens tem circunferência de 74,9-78cm e peso de 567-650g; para mulheres, 72,4-73,7cm e 510-567g. (Artigo 3)" },
-                { "id": 11, "content": "Regras de tamanho, proporção e uniformes alteraram com o tempo. A quadra foi padronizada em 28x15m em 1956, a linha de 3 pontos introduzida em 1984 (6,25m, ajustada para 6,75m em 2010), e o tamanho da bola para mulheres adotado na década de 1970. Os uniformes evoluíram para materiais sintéticos nos anos 1980, com mais personalização recente, enquanto o relógio de posse foi reduzido para 24 segundos em 2000. Além do Passe 0, implementado em 2018, que foi a mudança mais 'polêmica', onde, um jogador, enquanto recebe a bola, pode dar um passo além dos dois permitidos." }
-        ], 
-        "first rules": [
-                {
-                    "number": 1,
-                    "description": "A bola pode ser lançada em qualquer direção com uma ou ambas as mãos."
-                },
-                {
-                    "number": 2,
-                    "description": "A bola pode ser rebatida em qualquer direção com uma ou ambas as mãos (nunca com o punho)."
-                },
-                {
-                    "number": 3,
-                    "description": "Um jogador não pode correr com a bola. Ele deve arremessá-la do local onde a pegou, com exceção de um jogador que pega a bola correndo em boa velocidade, caso tente parar."
-                },
-                {
-                    "number": 4,
-                    "description": "A bola deve ser segurada entre as mãos; os braços ou o corpo não devem ser usados ​​para segurá-la."
-                },
-                {
-                    "number": 5,
-                    "description": "Não será permitido dar ombros, segurar, empurrar, derrubar ou golpear de qualquer forma o corpo de um adversário; a primeira infração desta regra por qualquer jogador será considerada uma falta, a segunda o desqualificará até que o próximo gol seja marcado ou, se houver intenção evidente de machucar o corpo, durante todo o jogo, não sendo permitida a substituição."
-                },
-                {
-                    "number": 6,
-                    "description": "Uma falta é golpear a bola com o punho, uma violação das Regras 3, 4 e outras descritas na Regra 5."
-                },
-                {
-                    "number": 7,
-                    "description": "Se qualquer um dos lados cometer três faltas consecutivas, será contabilizado um gol para os adversários (consecutivas significa sem que os adversários cometam nenhuma falta nesse meio tempo)."
-                },
-                {
-                    "number": 8,
-                    "description": "Um gol será considerado marcado quando a bola for lançada ou rebatida do campo para a cesta e permanecer lá, desde que os defensores não a toquem ou perturbem. Se a bola parar nas bordas e o adversário mover a cesta, será considerado gol."
-                },
-                {
-                    "number": 9,
-                    "description": "Quando a bola sai de campo, ela deve ser lançada para dentro do campo de jogo pela pessoa que a tocou primeiro. Em caso de disputa, o árbitro deve lançá-la diretamente para dentro do campo. O jogador que repõe a bola tem cinco segundos; se ele a segurar por mais tempo, ela será do adversário. Se qualquer um dos lados persistir em atrasar o jogo, o árbitro deve marcar uma falta para esse lado."
-                },
-                {
-                    "number": 10,
-                    "description": "O árbitro será o juiz dos homens, anotando as faltas e notificando o juiz quando três faltas consecutivas forem cometidas. Ele terá o poder de desqualificar os homens de acordo com a Regra 5."
-                },
-                {
-                    "number": 11,
-                    "description": "O árbitro será o juiz da bola e decidirá quando ela estiver em jogo, dentro de campo, a que lado pertence e marcará o tempo. Ele decidirá quando um gol foi marcado e registrará os gols, além de quaisquer outras tarefas normalmente desempenhadas por um árbitro."
-                },
-                {
-                    "number": 12,
-                    "description": "O tempo será de dois tempos de 15 minutos, com cinco minutos de descanso entre eles."
-                },
-                {
-                    "number": 13,
-                    "description": "O time que marcar mais gols nesse tempo será declarado vencedor. Em caso de empate, o jogo poderá, por acordo dos capitães, ser retomado até que outro gol seja marcado."
-                }
-        ],
-        "players_positions": [
-                {"name": "Armador", "description": "Sed laoreet, lorem nec venenatis molestie, leo urna suscipit ligula, finibus fringilla ex augue ut risus. Ut ultrices posuere pretium."},
-                {"name": "Ala-Armador", "description": "Sed laoreet, lorem nec venenatis molestie, leo urna suscipit ligula, finibus fringilla ex augue ut risus. Ut ultrices posuere pretium."},
-                {"name": "Ala", "description": "Sed laoreet, lorem nec venenatis molestie, leo urna suscipit ligula, finibus fringilla ex augue ut risus. Ut ultrices posuere pretium."},
-                {"name": "Ala-Pivô", "description": "Sed laoreet, lorem nec venenatis molestie, leo urna suscipit ligula, finibus fringilla ex augue ut risus. Ut ultrices posuere pretium."},
-                {"name": "Pivô", "description": "Sed laoreet, lorem nec venenatis molestie, leo urna suscipit ligula, finibus fringilla ex augue ut risus. Ut ultrices posuere pretium."}
-        ],
-        "points": [
-                {"number": "3", "title": "Três Pontos", "description": "Bolas atrás da linha de três, valem 3 pontos."},
-                {"number": "1", "title": "Dois Pontos", "description": "Bolas acertadas dentro da linha de três, valem 2 pontos."},
-                {"number": "1", "title": "Lance-Livre", "description": "Bolas acertada em lance-livre (após tomar uma falta), valem 1 ponto. "}
-        ],
-        "dimensions": [
-                {
-                    "item": "Quadra",
-                    "masc": "28m x 15m",
-                    "fem": "28m x 15m"
-                },
-                {
-                    "item": "Aro",
-                    "masc": "45cm, 3,05m",
-                    "fem": "45cm, 3,05m"
-                },
-                {
-                    "item": "Tabela",
-                    "masc": "1,80m x 1,20m",
-                    "fem": "1,80m x 1,20m"
-                },
-                {
-                    "item": "Circunferência da Bola",
-                    "masc": "74,9-78cm",
-                    "fem": "72,4-73,7cm"
-                },
-                {
-                    "item": "Peso da Bola",
-                    "masc": "567-650g",
-                    "fem": "510-567g"
-                }
-        ]
-    },
-    {
-        "id": 4,
-        "name": "Patrocinadores",
-        "banner": { "id": 4, "content": "BBN.png" },
-        "leagues": [
-            {
-            "name": "NBA (National Basketball Association)",
-            "description": "A liga de basquete mais assistida do mundo, com faturamento de patrocínios de US$ 1,66 bilhão na temporada 2022/2023, crescendo 1,3% no ano seguinte.",
-            "sponsors": [
-                {
-                "name": "Nike",
-                "details": "Fornecedora oficial de uniformes desde 2017, com contratos vitalícios com estrelas como LeBron James, Kevin Durant e Michael Jordan (linha Air Jordan). Central na moda e cultura pop do basquete.",
-                "imagem": "assets/images/sponsorsPage/nike-logo.png"
-                },
-                {
-                "name": "Coca-Cola",
-                "details": "Parceira de longa data, promove marcas como Sprite e Powerade em campanhas publicitárias e eventos como o All-Star Game.",
-                "imagem": "assets/images/sponsorsPage/coca-cola-logo.png"
-                },
-                {
-                "name": "PepsiCo",
-                "details": "Concorrente da Coca-Cola, destaca-se com Gatorade, Mountain Dew e Pepsi, criando conteúdo para engajar fãs.",
-                "imagem": "assets/images/sponsorsPage/pepsico-logo.png"
-                },
-                {
-                "name": "State Farm",
-                "details": "Patrocinadora oficial de seguros, nomeia o 'State Farm All-Star Saturday Night' e tem forte presença em anúncios durante jogos e playoffs.",
-                "imagem": "assets/images/sponsorsPage/statefarm-logo.png"
-                }
-            ],
-            "influential_sectors": {
-                "Bebidas e Alimentação": "21%",
-                "Serviços Financeiros": "14%",
-                "Tecnologia": "US$ 122 milhões",
-                "Saúde": "US$ 105 milhões"
-            }
-            },
-            {
-            "name": "EuroLeague",
-            "description": "Principal liga de basquete da Europa, com clubes de elite como Real Madrid e Barcelona. Menos visibilidade global que a NBA, mas com foco em mercados regionais.",
-            "sponsors": [
-                {
-                "name": "Turkish Airlines",
-                "details": "Patrocinadora principal, dá nome à competição (Turkish Airlines EuroLeague) desde 2010, com forte presença em arenas e transmissões.",
-                "imagem": "assets/images/sponsorsPage/turkish-airlines-logo.png"
-                },
-                {
-                "name": "Adidas",
-                "details": "Fornece uniformes e equipamentos para times e eventos, competindo com a Nike no mercado europeu.",
-                "imagem": "assets/images/sponsorsPage/adidas-logo.png"
-                },
-                {
-                "name": "Bet365",
-                "details": "Marcas de apostas esportivas em crescimento, com ativações digitais e promoções durante jogos.",
-                "imagem": "assets/images/sponsorsPage/bet365-logo.png"
-                },
-                {
-                "name": "Heineken",
-                "details": "Presença constante em eventos e anúncios, especialmente em mercados europeus onde a cerveja é culturalmente relevante.",
-                "imagem": "assets/images/sponsorsPage/heineken-logo.png"
-                }
-            ],
-            "influential_sectors": {
-                "Avição": "Alta relevância",
-                "Apostas Esportivas": "Em crescimento",
-                "Marcas Esportivas": "Forte presença"
-            }
-            },
-            {
-            "name": "NBB (Novo Basquete Brasil)",
-            "description": "Principal liga brasileira, com 58 milhões de fãs e crescente apelo comercial. A LNB oferece plataformas de marketing personalizadas para marcas.",
-            "sponsors": [
-                {
-                "name": "Caixa e Banco do Brasil",
-                "details": "Bancos tradicionais que patrocinam times como Flamengo e Franca, com exposição em uniformes e quadras.",
-                "imagem": "assets/images/sponsorsPage/caixa-bb-logo.png"
-                },
-                {
-                "name": "Brahma",
-                "details": "Marca de cerveja com forte presença em jogos, anúncios e ativações, como promoções em ginásios.",
-                "imagem": "assets/images/sponsorsPage/brahma-logo.png"
-                },
-                {
-                "name": "Ipanema",
-                "details": "Farmácia com visibilidade em quadras e eventos, focada no público local.",
-                "imagem": "assets/images/sponsorsPage/ipanema-logo.png"
-                },
-                {
-                "name": "BMG Banco",
-                "details": "Patrocinador máster, com exposição em todas as quadras e campanhas de mídia.",
-                "imagem": "assets/images/sponsorsPage/bmg-logo.png"
-                }
-            ],
-            "influential_sectors": {
-                "Serviços Financeiros": "Alta relevância",
-                "Bebidas": "Forte presença",
-                "iGaming": "Em crescimento"
-            },
-            "impact": "97% dos fãs do NBB compraram produtos de patrocinadores nos últimos seis meses, mostrando forte retorno para as marcas."
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "name": "Treino",
-        "banner": { "id": 5, "content": "https://banner5.png" },
-        "videos": [
+        "content": "BBN.png"
+      },
+      "images": [
         {
-            "id": 1,
-            "link": "https://www.youtube.com/embed/8Mx1SM_WrLE?si=_BDpNXoXYmPe-ABQ",
-            "title": "Driblar | Basquete",
-            "desc": "Neste vídeo, você vai aprender os fundamentos básicos do drible no basquete. Este é o primeiro vídeo do capítulo 'Drible'. Quarto capítulo do programa de basquete, esta seção passa pelas técnicas e dicas essenciais para driblar e bater bola corretamente durante uma partida...",
-            "category": "Drible",
-            "creator": "Sikana"
+          "id": 1,
+          "content": "jordan-dunk.jpg"
         },
         {
-            "id": 2,
-            "link": "https://www.youtube.com/embed/6rc2GX-zSRs?si=2krBJtx4eFMmXUFb",
-            "title": "Tipos de drible | Basquete",
-            "desc": "Neste vídeo, você vai aprender três tipos diferentes de drible, isto é, bater bola alto, baixo e com mudança de ritmo. Este é o quarto vídeo do capítulo 'Drible'. Quarto capítulo do programa de basquete...",
-            "category": "Drible",
-            "creator": "Sikana"
+          "id": 2,
+          "content": "lebron-dunk.jpg"
         },
         {
-            "id": 3,
-            "link": "https://www.youtube.com/embed/YayY4TQSWy8?si=17GgNZc9oVPjXcwr",
-            "title": "Drible: quando e como usar | Basquete",
-            "desc": "Neste vídeo, você vai aprender como e quando driblar e conduzir a bola pela quadra. Este é o segundo vídeo do capítulo 'Drible'. Quarto capítulo do programa de basquete, esta seção passa pelas técnicas e dicas essenciais para driblar e bater bola corretamente durante uma partida...",
-            "category": "Drible",
-            "creator": "Sikana"
+          "id": 3,
+          "content": "curry-night-night.jpg"
         },
         {
-            "id": 4,
-            "link": "https://www.youtube.com/embed/l5DLm-j6Ris?si=B6evDQv_2SGxBG_A",
-            "title": "Drible: parada e saída | Basquete",
-            "desc": "Neste vídeo, você vai aprender a parar e sair corretamente enquanto faz o drible. Este é o terceiro vídeo do capítulo 'Drible'. Quarto capítulo do programa de basquete, esta seção passa pelas técnicas e dicas essenciais para driblar e bater bola corretamente durante uma partida.",
-            "category": "Drible",
-            "creator": "Sikana"
+          "id": 4,
+          "content": "bird-vs-magic.jpg"
         },
         {
-            "id": 5,
-            "link": "https://www.youtube.com/embed/LSXUGARA1EM?si=QlGn5SBpOyJckDkw",
-            "title": "Drible cruzado | Basquete",
-            "desc": "Neste vídeo, você vai aprender a fazer um drible cruzado no basquete, também conhecido como crossover. Este é o quinto vídeo do capítulo 'Drible'. Quarto capítulo do programa de basquete, esta seção passa pelas técnicas e dicas essenciais para driblar e bater bola corretamente durante uma partida.",
-            "category": "Drible",
-            "creator": "Sikana"
+          "id": 5,
+          "content": "kareem-abdul-jabbar.jpg"
         },
         {
-            "id": 6,
-            "link": "https://www.youtube.com/embed/LSXUGARA1EM?si=QlGn5SBpOyJckDkw",
-            "title": "Trocar de mão por trás | Basquete",
-            "desc": "Neste vídeo, você vai aprender a fazer uma troca de mão por trás do corpo, isto é, passar a bola de basquete por trás do corpo. Este é o sexto vídeo do capítulo 'Drible'. Quarto capítulo do programa de basquete, esta seção passa pelas técnicas e dicas essenciais para driblar e bater bola corretamente durante uma partida.",
-            "category": "Drible",
-            "creator": "Sikana"
+          "id": 6,
+          "content": "lebron.jpg"
         },
         {
-            "id": 7,
-            "link": "https://www.youtube.com/embed/cFvKE8NXcww?si=NUoB-g1X_ddE0eLU",
-            "title": "Drible cruzado sob as pernas | Basquete",
-            "desc": "Neste vídeo, você vai aprender a fazer o drible cruzado sob as pernas, isto é, passar a bola embaixo das pernas. Este é o sétimo vídeo do capítulo 'Drible'. Quarto capítulo do programa de basquete, esta seção passa pelas técnicas e dicas essenciais para driblar e bater bola corretamente durante uma partida.",
-            "category": "Drible",
-            "creator": "Sikana"
-        },
-        {
-            "id": 8,
-            "link": "https://www.youtube.com/embed/mVmdIt5okMw?si=OW48XtRPM7pFdrzH",
-            "title": "Drible com giro | Basquete",
-            "desc": "Neste vídeo, você vai aprender a fazer um drible com giro, também conhecido como drible cruzado com inversão. Este é o último vídeo do capítulo 'Drible'. Quarto capítulo do programa de basquete, esta seção passa pelas técnicas e dicas essenciais para driblar e bater bola corretamente durante uma partida..",
-            "category": "Drible",
-            "creator": "Comunidade Baska"
-        },
-        {
-            "id": 9,
-            "link": "https://www.youtube.com/embed/Nys6iOhtjp0?si=1nZPz2VOEete7955",
-            "title": "NUNCA MAIS PERCA A BOLA ENQUANTO ESTIVER DRIBLANDO!",
-            "desc": "Fala Comunidade Baska, resolvi trazer hoje um vídeo mais básico pra ajudar a galera que esta iniciando no basquete. Mesmo que você já esteja em um nível avançado...",
-            "category": "Drible",
-            "creator": "Comunidade Baska"
-        },
-        {
-            "id": 10,
-            "link": "https://www.youtube.com/embed/NxUMg65z2ZQ?si=FDJIfcYJIlwRJ3yJ",
-            "title": "Arremesso | Basquete",
-            "desc": "Neste vídeo, você vai conhecer as técnicas para um bom arremesso no basquete. Este é o primeiro vídeo do capítulo 'Arremesso', a quinta parte do programa de basquete. Neste capítulo você aprende os fundamentos básicos para arremessos e suas variações como bandeja, chutes longos, lance livres, saltos, etc.",
-            "category": "Arremesso",
-            "creator": "Sikana"
-        },
-        {
-            "id": 11,
-            "link": "https://www.youtube.com/embed/bI6CLvL-QMU?si=UtpuHbujxeoxAHVB",
-            "title": "Arremesso com salto | Basquete",
-            "desc": "Neste vídeo, você vai aprender a fazer um arremesso com salto — o jump shot. Este arremesso te dá mais espaço para marcar pontos mesmo em frente um marcador. Este é o segundo vídeo do capítulo 'Arremesso', a quinta parte do programa de basquete. Neste capítulo você aprende os fundamentos básicos para arremessos e suas variações como bandeja, chutes longos, lance livres, saltos, etc.",
-            "category": "Arremesso",
-            "creator": "Sikana"
-        },
-        {
-            "id": 12,
-            "link": "https://www.youtube.com/embed/K7l-4EAHiVw?si=bMjwfhTJVN5oserS",
-            "title": "Lance livre | Basquete",
-            "desc": "Neste vídeo, você vai aprender a cobrar um lance livre, isto é, um tipo de cobrança de falta muito comum no basquete. Este é o último vídeo do capítulo 'Arremesso', a quinta parte do programa de basquete. Neste capítulo você aprende os fundamentos básicos para arremessos e suas variações como bandeja, chutes longos, lance livres, saltos, etc.",
-            "category": "Arremesso",
-            "creator": "Sikana"
-        },
-        {
-            "id": 13,
-            "link": "https://www.youtube.com/embed/1hE5HD1ubFM?si=Mbv889p2xLN5HMq0",
-            "title": "Gancho | Basquete",
-            "desc": "Neste vídeo, você vai aprender a fazer um gancho, isto é, um arremesso muito mais vertical que o comum. Este é o último vídeo do capítulo 'Bandeja e gancho', Esta sequência, com vídeos dedicados ao movimento de bandeja e gancho para cesta, compõe a sexta parte do programa de basquete.",
-            "category": "Arremesso",
-            "creator": "Sikana"
-        },
-        {
-            "id": 14,
-            "link": "https://www.youtube.com/embed/igRdMUV0RsA?si=b0t1gWcac9nrpJ1U",
-            "title": "Passe de peito e passe picado | Basquete",
-            "desc": "Neste vídeo, você vai aprender a fazer um passe direto ou picado com duas mãos. Estes passes são utilizados na maior parte das situações de jogo. Este é o primeiro vídeo do capítulo 'Passe'. Neste terceiro capítulo do programa de basquete você pode aprender as técnicas básicas do passe para aplicar em jogo.",
-            "category": "Passe",
-            "creator": "Sikana"
-        },
-        {
-            "id": 15,
-            "link": "https://www.youtube.com/embed/OuCoFgLmWH4?si=MA8361JMhG6HLvTv",
-            "title": "Receber um passe | Basquete",
-            "desc": "Neste vídeo, você vai aprender a receber um passe feito por um companheiro de equipe. Este é o segundo vídeo do capítulo 'Passe'. Neste  terceiro capítulo do programa de basquete você pode aprender as técnicas básicas do passe para aplicar em jogo.",
-            "category": "Passe",
-            "creator": "Sikana"
-        },
-        {
-            "id": 16,
-            "link": "https://www.youtube.com/embed/H1cRmtTRBrE?si=xctuh5z_gAWJVExm",
-            "title": "Passe sobre a cabeça | Basquete",
-            "desc": "Neste vídeo, você vai aprender a fazer um passe com as duas mãos sobre a cabeça. Este é o terceiro vídeo do capítulo 'Passe'. Neste terceiro capítulo do programa de basquete você pode aprender as técnicas básicas do passe para aplicar em jogo.",
-            "category": "Passe",
-            "creator": "Sikana"
+          "id": 7,
+          "content": "jordan.webp"
         }
-        ]
-    },
-    {
-        "id": 6,
-        "name": "Ligas",
-        "banner": { "id": 6, "content": "BBN.png" },
-        "ligas": [
-            {
-                "nome": "NBA",
-                "imagem": "assets/images/leaguesPage/nba.png",
-                "pais": "Estados Unidos",
-                "fundacao": 1946,
-                "times": 30,
-                "temporada": "Outubro a Junho",
-                "formato": {
-                "descricao": "Temporada regular com 82 jogos. Os 8 melhores de cada conferência vão aos playoffs. Campeões do Leste e Oeste disputam as finais.",
-                "playoffs": "Melhor de 7 jogos"
-                },
-                "maior_campeao": "Boston Celtics (18 títulos)",
-                "jogadores_famosos": ["Michael Jordan", "LeBron James", "Stephen Curry", "Kobe Bryant"],
-                "site": "https://www.nba.com",
-                "criado_por": "Board of Governors da Basketball Association of America (BAA), que depois se tornou a NBA"
-            },
-            {
-                "nome": "Euroliga",
-                "imagem": "../images/leaguesPage/euroliga.png",
-                "continente": "Europa",
-                "fundacao": 1958,
-                "times": 18,
-                "temporada": "Outubro a Maio",
-                "formato": {
-                "descricao": "Todos contra todos em pontos corridos. Top 8 avançam aos playoffs (melhor de 5). Final Four decide o campeão.",
-                "final_four": true
-                },
-                "maior_campeao": "Real Madrid (11 títulos)",
-                "clubes_famosos": ["Real Madrid", "Olympiacos", "FC Barcelona", "Fenerbahçe"],
-                "jogadores_famosos": ["Vassilis Spanoulis", "Luka Dončić", "Sergio Llull"],
-                "site": "https://www.euroleaguebasketball.net",
-                "criado_por": "FIBA Europe (originalmente), hoje organizada pela Euroleague Basketball"
-            },
-            {
-                "nome": "NBB",
-                "imagem": "assets/images/leaguesPage/nbb.png",
-                "pais": "Brasil",
-                "fundacao": 2008,
-                "times": "15 a 18 (varia por temporada)",
-                "temporada": "Outubro a Maio",
-                "formato": {
-                "descricao": "Temporada regular em pontos corridos. Playoffs com os melhores classificados. Finais em melhor de 5 jogos.",
-                "playoffs": "Melhor de 5 jogos"
-                },
-                "maior_campeao": "Flamengo",
-                "clubes_famosos": ["Flamengo", "Franca", "Bauru", "Minas", "São Paulo"],
-                "jogadores_famosos": ["Marcelinho Machado", "Alex Garcia", "Leandro Barbosa"],
-                "site": "https://lnb.com.br",
-                "criado_por": "Liga Nacional de Basquete (LNB), com apoio da Confederação Brasileira de Basketball (CBB)"
-            }
-        ]
-    },
-    {
-      "id": 8,
-      "name": "Sobre Nós",
-      "banner": { "id": 8, "content": "https://banner8.png" },
+      ],
       "titles": [
-        { "id": 1, "content": "Visão Geral", "text-id": 1 },
-        { "id": 2, "content": "Equipe", "text-id": null }
+        {
+          "id": 1,
+          "content": "Introdução",
+          "text-id": 1
+        },
+        {
+          "id": 2,
+          "content": "Como o basquete foi criado?",
+          "text-id": 3
+        },
+        {
+          "id": 3,
+          "content": "Como o basquete ascendeu?",
+          "text-id": 4
+        },
+        {
+          "id": 4,
+          "content": "Jogadores que marcaram a história",
+          "text-id": 5
+        },
+        {
+          "id": 5,
+          "content": "Kareem Abdul-Jabbar",
+          "text-id": 6
+        },
+        {
+          "id": 6,
+          "content": "LeBron James",
+          "text-id": 7
+        },
+        {
+          "id": 7,
+          "content": "Michael Jordan",
+          "text-id": 8
+        }
+      ],
+      "texts": [
+        {
+          "id": 1,
+          "content": "O basquetebol, também conhecido como basquete, é um esporte coletivo amplamente praticado no mundo todo. Ele é disputado por duas equipes compostas por cinco jogadores cada, com o principal objetivo de marcar pontos ao lançar a bola dentro da cesta do time adversário — um aro com uma rede, fixado a 3,05 metros de altura em cada extremidade da quadra. O jogo é caracterizado por sua dinamicidade, exigindo dos atletas uma combinação de diversas capacidades físicas, como agilidade, velocidade, resistência, força muscular, além de uma excelente coordenação motora e controle corporal. Durante uma partida, os jogadores se movimentam constantemente, realizando dribles, passes, arremessos e bloqueios, o que torna o basquete uma modalidade bastante intensa e estratégica."
+        },
+        {
+          "id": 2,
+          "content": "As partidas são divididas em quatro períodos (ou quartos), normalmente de 10 ou 12 minutos cada, dependendo da liga ou competição. O time que soma mais pontos ao final do jogo é o vencedor. Além do aspecto físico, o basquete também desenvolve habilidades cognitivas, como o raciocínio rápido, a tomada de decisões sob pressão e o trabalho em equipe. É um esporte que promove a socialização, a disciplina e o espírito esportivo. Criado em 1891 por James Naismith, no Canadá, o basquete se popularizou rapidamente e hoje é um dos esportes mais praticados do planeta, sendo destaque em grandes eventos internacionais como os Jogos Olímpicos e a NBA (National Basketball Association), a principal liga profissional dos Estados Unidos."
+        },
+        {
+          "id": 3,
+          "content": "O basquete foi criado em 1891 por James Naismith, um professor de educação física canadense que lecionava nos Estados Unidos, no Springfield College, em Massachusetts. Na época, Naismith recebeu a tarefa de desenvolver uma atividade esportiva que pudesse ser praticada em ambientes fechados durante o rigoroso inverno norte-americano e que fosse menos violenta do que os esportes tradicionais da época, como o futebol americano. Para isso, ele criou um jogo simples com 13 regras básicas e usou duas cestas de pêssegos pregadas nas paredes opostas do ginásio, a uma altura de 3,05 metros — medida que permanece até hoje. A bola era similar à de futebol, e o objetivo do jogo era arremessar a bola dentro da cesta adversária. Cada vez que isso acontecia, um jogador tinha que subir numa escada para retirar a bola, já que as cestas não eram vazadas."
+        },
+        {
+          "id": 4,
+          "content": "O esporte rapidamente se popularizou nas escolas e universidades dos EUA, sendo adotado por associações como a YMCA. As regras foram sendo ajustadas, as cestas passaram a ser abertas na parte inferior, facilitando a continuidade do jogo, e a bola foi redesenhada especificamente para a modalidade. Em 1936, o esporte estreou nos Jogos Olímpicos de Berlim, consolidando-se como uma das principais modalidades do cenário esportivo mundial. Hoje, o basquete é praticado em todos os continentes, com ligas profissionais, torneios internacionais e milhões de fãs apaixonados. A visão inovadora de James Naismith transformou-se em um legado global que promove não só a competição, mas também valores como trabalho em equipe, disciplina e inclusão. Com o tempo, ligas profissionais surgiram, e o jogo ganhou alcance global, especialmente após a criação da NBA em 1946."
+        },
+        {
+          "id": 5,
+          "content": "Ao longo da história do basquete, diversos jogadores se destacaram de forma tão marcante que entraram para o seleto grupo dos 'all-time players', ou seja, os maiores de todos os tempos. Esses atletas não apenas dominaram as quadras com habilidades técnicas excepcionais, mas também influenciaram gerações e ajudaram a moldar o esporte como o conhecemos hoje. Nomes como Michael Jordan, considerado por muitos o maior jogador de todos os tempos, Magic Johnson, Larry Bird, Kareem Abdul-Jabbar, Kobe Bryant, LeBron James, Oscar Schmidt e Tim Duncan são apenas alguns dos ícones que marcaram eras diferentes com seus estilos únicos e conquistas impressionantes. Cada um deles contribuiu de maneira singular para a evolução do jogo, estabelecendo recordes, vencendo títulos e deixando um legado que transcende estatísticas — inspirando jovens atletas em todo o mundo a sonhar grande e alcançar a excelência."
+        },
+        {
+          "id": 6,
+          "content": "38.387pts"
+        },
+        {
+          "id": 7,
+          "content": "50.033pts"
+        },
+        {
+          "id": 8,
+          "content": "32.292pts"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Página de Regras",
+      "banner": {
+        "id": 3,
+        "content": "regras.jpg"
+      },
+      "images": [
+        {
+          "id": 1,
+          "content": "quadra.png"
+        },
+        {
+          "id": 2,
+          "content": "quadra-5x5.png"
+        },
+        {
+          "id": 3,
+          "content": "curry-night-night.jpg"
+        },
+        {
+          "id": 4,
+          "content": "d-wayde.jpeg"
+        },
+        {
+          "id": 5,
+          "content": "durant.webp"
+        },
+        {
+          "id": 6,
+          "content": "giannis-antetokounmpo.jpg"
+        },
+        {
+          "id": 7,
+          "content": "jokic.webp"
+        },
+        {
+          "id": 8,
+          "content": "quadra-5x5.png"
+        }
+      ],
+      "titles": [
+        {
+          "id": 1,
+          "content": "Regras",
+          "text-id": 1
+        },
+        {
+          "id": 2,
+          "content": "As primeiras regras",
+          "text-id": null
+        },
+        {
+          "id": 3,
+          "content": "Início do Jogo",
+          "text-id": 7
+        },
+        {
+          "id": 4,
+          "content": "Dribles",
+          "text-id": 2
+        },
+        {
+          "id": 5,
+          "content": "Arremessos",
+          "text-id": 8
+        },
+        {
+          "id": 6,
+          "content": "Posição dos Jogadores",
+          "text-id": 3
+        },
+        {
+          "id": 7,
+          "content": "Movimentação",
+          "text-id": 4
+        },
+        {
+          "id": 8,
+          "content": "Faltas",
+          "text-id": 5
+        },
+        {
+          "id": 9,
+          "content": "Papel do Técnico",
+          "text-id": 6
+        },
+        {
+          "id": 10,
+          "content": "Pontuação",
+          "text-id": null
+        },
+        {
+          "id": 11,
+          "content": "Uniforme",
+          "text-id": 9
+        },
+        {
+          "id": 12,
+          "content": "Equipamentos",
+          "text-id": 10
+        },
+        {
+          "id": 13,
+          "content": "Alterações ao longo do tempo",
+          "text-id": 11
+        }
+      ],
+      "texts": [
+        {
+          "id": 1,
+          "content": "As regras do basquete, baseadas nas normas oficiais da FIBA de 2024, regem aspectos como dribles, posicionamento, faltas e tempos. O jogo é dividido em 4 períodos de 10 minutos, com intervalos de 2 minutos entre períodos e 15 minutos no intervalo. Timeouts são limitados a 2 no primeiro tempo e 3 no segundo, cada um de 1 minuto, com um relógio de posse de 24 segundos para arremessos."
+        },
+        {
+          "id": 2,
+          "content": "Um jogador deve quicar a bola continuamente com uma mão enquanto se move, sem tocar com ambas as mãos simultaneamente durante o drible. Se parar de driblar, não pode recomeçar, e violações como drible duplo (retomar após segurar a bola) ou carregar a bola (colocar a mão sob a bola) resultam em perda de posse. (Artigo 21)"
+        },
+        {
+          "id": 3,
+          "content": "Durante lances livres, jogadores devem estar atrás da linha de lance livre e da linha de divisão até a bola ser lançada. No salto inicial, posições específicas são designadas no círculo central. Em jogo normal, não há posições fixas, mas jogadores ofensivos não podem ficar no garrafão por mais de três segundos consecutivos enquanto sua equipe tem posse. (Artigo 24)"
+        },
+        {
+          "id": 4,
+          "content": "Um jogador com a bola pode dar no máximo dois passos, depois do passo 0 (zero step), que consta no passo no momento em que o jogador recebeu a bola sem driblar e, ao parar, pode pivotar sobre um pé (pivô), mantendo o outro fixo. Andar ilegalmente (traveling) ocorre com passos extras ou mover o pé de apoio incorretamente, resultando em violação.(Artigo 25)"
+        },
+        {
+          "id": 5,
+          "content": "Faltas pessoais incluem contatos ilegais como empurrar ou segurar, podendo resultar em lances livres (1, 2 ou 3, dependendo da posição em que a falta aconteceu) ou perda de posse. Faltas técnicas, por comportamento antidesportivo como xingar árbitros, resultam em um lance livre para o adversário. Faltas desqualificantes, por ações flagrantes, levam à expulsão, com o jogador saindo após cinco faltas pessoais. (Artigos 32, 36, 38, e 44)"
+        },
+        {
+          "id": 6,
+          "content": "O técnico (treinador) pode chamar timeouts, é responsável pela conduta da equipe e pode ser penalizado com faltas técnicas por mau comportamento. Cada equipe pode ter até 12 jogadores e uma delegação de até 8 pessoas, incluindo assistentes. (Artigo 4)"
+        },
+        {
+          "id": 7,
+          "content": "O jogo começa com um salto inicial no centro da quadra, onde dois jogadores disputam a posse da bola. A bola é arremessada por um juiz. (Artigo 9)"
+        },
+        {
+          "id": 8,
+          "content": " Arremessos de campo devem ser tentados dentro de 24 segundos, com lances livres concedidos por faltas em tentativas, porém o relógio pode ser resetado para 14 segundos se a bola encostar no aro. Interferência na cesta (goaltending) é proibida quando a bola está em trajetória descendente. (Artigos 28 e 43)"
+        },
+        {
+          "id": 9,
+          "content": " Os uniformes devem ter camisas com números de 0 a 99, cores idênticas para a equipe, sem objetos perigosos, como brincos, aneis, colares e outro acessórios. (Artigo 4)"
+        },
+        {
+          "id": 10,
+          "content": " A quadra mede 28m x 15m para ambos os gêneros, com aro de 45cm de diâmetro e 3,05m de altura, e tabela de 1,80m x 1,20m. A bola para homens tem circunferência de 74,9-78cm e peso de 567-650g; para mulheres, 72,4-73,7cm e 510-567g. (Artigo 3)"
+        },
+        {
+          "id": 11,
+          "content": "Regras de tamanho, proporção e uniformes alteraram com o tempo. A quadra foi padronizada em 28x15m em 1956, a linha de 3 pontos introduzida em 1984 (6,25m, ajustada para 6,75m em 2010), e o tamanho da bola para mulheres adotado na década de 1970. Os uniformes evoluíram para materiais sintéticos nos anos 1980, com mais personalização recente, enquanto o relógio de posse foi reduzido para 24 segundos em 2000. Além do Passe 0, implementado em 2018, que foi a mudança mais 'polêmica', onde, um jogador, enquanto recebe a bola, pode dar um passo além dos dois permitidos."
+        }
+      ],
+      "first rules": [
+        {
+          "number": 1,
+          "description": "A bola pode ser lançada em qualquer direção com uma ou ambas as mãos."
+        },
+        {
+          "number": 2,
+          "description": "A bola pode ser rebatida em qualquer direção com uma ou ambas as mãos (nunca com o punho)."
+        },
+        {
+          "number": 3,
+          "description": "Um jogador não pode correr com a bola. Ele deve arremessá-la do local onde a pegou, com exceção de um jogador que pega a bola correndo em boa velocidade, caso tente parar."
+        },
+        {
+          "number": 4,
+          "description": "A bola deve ser segurada entre as mãos; os braços ou o corpo não devem ser usados ​​para segurá-la."
+        },
+        {
+          "number": 5,
+          "description": "Não será permitido dar ombros, segurar, empurrar, derrubar ou golpear de qualquer forma o corpo de um adversário; a primeira infração desta regra por qualquer jogador será considerada uma falta, a segunda o desqualificará até que o próximo gol seja marcado ou, se houver intenção evidente de machucar o corpo, durante todo o jogo, não sendo permitida a substituição."
+        },
+        {
+          "number": 6,
+          "description": "Uma falta é golpear a bola com o punho, uma violação das Regras 3, 4 e outras descritas na Regra 5."
+        },
+        {
+          "number": 7,
+          "description": "Se qualquer um dos lados cometer três faltas consecutivas, será contabilizado um gol para os adversários (consecutivas significa sem que os adversários cometam nenhuma falta nesse meio tempo)."
+        },
+        {
+          "number": 8,
+          "description": "Um gol será considerado marcado quando a bola for lançada ou rebatida do campo para a cesta e permanecer lá, desde que os defensores não a toquem ou perturbem. Se a bola parar nas bordas e o adversário mover a cesta, será considerado gol."
+        },
+        {
+          "number": 9,
+          "description": "Quando a bola sai de campo, ela deve ser lançada para dentro do campo de jogo pela pessoa que a tocou primeiro. Em caso de disputa, o árbitro deve lançá-la diretamente para dentro do campo. O jogador que repõe a bola tem cinco segundos; se ele a segurar por mais tempo, ela será do adversário. Se qualquer um dos lados persistir em atrasar o jogo, o árbitro deve marcar uma falta para esse lado."
+        },
+        {
+          "number": 10,
+          "description": "O árbitro será o juiz dos homens, anotando as faltas e notificando o juiz quando três faltas consecutivas forem cometidas. Ele terá o poder de desqualificar os homens de acordo com a Regra 5."
+        },
+        {
+          "number": 11,
+          "description": "O árbitro será o juiz da bola e decidirá quando ela estiver em jogo, dentro de campo, a que lado pertence e marcará o tempo. Ele decidirá quando um gol foi marcado e registrará os gols, além de quaisquer outras tarefas normalmente desempenhadas por um árbitro."
+        },
+        {
+          "number": 12,
+          "description": "O tempo será de dois tempos de 15 minutos, com cinco minutos de descanso entre eles."
+        },
+        {
+          "number": 13,
+          "description": "O time que marcar mais gols nesse tempo será declarado vencedor. Em caso de empate, o jogo poderá, por acordo dos capitães, ser retomado até que outro gol seja marcado."
+        }
+      ],
+      "players positions": [
+        {
+          "name": "Armador",
+          "description": ""
+        },
+        {
+          "name": "Ala-Armador",
+          "description": ""
+        },
+        {
+          "name": "Ala",
+          "description": ""
+        },
+        {
+          "name": "Ala-Pivô",
+          "description": ""
+        },
+        {
+          "name": "Pivô",
+          "description": ""
+        }
+      ],
+      "points": [
+        {
+          "number": "3",
+          "title": "Três Pontos",
+          "description": "Bolas atrás da linha de três, valem 3 pontos."
+        },
+        {
+          "number": "1",
+          "title": "Dois Pontos",
+          "description": "Bolas acertadas dentro da linha de três, valem 2 pontos."
+        },
+        {
+          "number": "1",
+          "title": "Lance-Livre",
+          "description": "Bolas acertada em lance-livre (após tomar uma falta), valem 1 ponto. "
+        }
+      ],
+      "dimensions": [
+        {
+          "item": "Quadra",
+          "masc": "28m x 15m",
+          "fem": "28m x 15m"
+        },
+        {
+          "item": "Aro",
+          "masc": "45cm, 3,05m",
+          "fem": "45cm, 3,05m"
+        },
+        {
+          "item": "Tabela",
+          "masc": "1,80m x 1,20m",
+          "fem": "1,80m x 1,20m"
+        },
+        {
+          "item": "Circunferência da Bola",
+          "masc": "74,9-78cm",
+          "fem": "72,4-73,7cm"
+        },
+        {
+          "item": "Peso da Bola",
+          "masc": "567-650g",
+          "fem": "510-567g"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Patrocinadores",
+      "banner": {
+        "id": 4,
+        "content": "BBN.png"
+      },
+      "leagues": [
+        {
+          "name": "NBA (National Basketball Association)",
+          "description": "A liga de basquete mais assistida do mundo, com faturamento de patrocínios de US$ 1,66 bilhão na temporada 2022/2023, crescendo 1,3% no ano seguinte.",
+          "sponsors": [
+            {
+              "name": "Nike",
+              "details": "Fornecedora oficial de uniformes desde 2017, com contratos vitalícios com estrelas como LeBron James, Kevin Durant e Michael Jordan (linha Air Jordan). Central na moda e cultura pop do basquete.",
+              "imagem": "assets/images/sponsorsPage/nike-logo.png"
+            },
+            {
+              "name": "Coca-Cola",
+              "details": "Parceira de longa data, promove marcas como Sprite e Powerade em campanhas publicitárias e eventos como o All-Star Game.",
+              "imagem": "assets/images/sponsorsPage/coca-cola-logo.png"
+            },
+            {
+              "name": "PepsiCo",
+              "details": "Concorrente da Coca-Cola, destaca-se com Gatorade, Mountain Dew e Pepsi, criando conteúdo para engajar fãs.",
+              "imagem": "assets/images/sponsorsPage/pepsico-logo.png"
+            },
+            {
+              "name": "State Farm",
+              "details": "Patrocinadora oficial de seguros, nomeia o 'State Farm All-Star Saturday Night' e tem forte presença em anúncios durante jogos e playoffs.",
+              "imagem": "assets/images/sponsorsPage/statefarm-logo.png"
+            }
+          ],
+          "influential_sectors": {
+            "Bebidas e Alimentação": "21%",
+            "Serviços Financeiros": "14%",
+            "Tecnologia": "US$ 122 milhões",
+            "Saúde": "US$ 105 milhões"
+          }
+        },
+        {
+          "name": "EuroLeague",
+          "description": "Principal liga de basquete da Europa, com clubes de elite como Real Madrid e Barcelona. Menos visibilidade global que a NBA, mas com foco em mercados regionais.",
+          "sponsors": [
+            {
+              "name": "Turkish Airlines",
+              "details": "Patrocinadora principal, dá nome à competição (Turkish Airlines EuroLeague) desde 2010, com forte presença em arenas e transmissões.",
+              "imagem": "assets/images/sponsorsPage/turkish-airlines-logo.png"
+            },
+            {
+              "name": "Adidas",
+              "details": "Fornece uniformes e equipamentos para times e eventos, competindo com a Nike no mercado europeu.",
+              "imagem": "assets/images/sponsorsPage/adidas-logo.png"
+            },
+            {
+              "name": "Bet365",
+              "details": "Marcas de apostas esportivas em crescimento, com ativações digitais e promoções durante jogos.",
+              "imagem": "assets/images/sponsorsPage/bet365-logo.png"
+            },
+            {
+              "name": "Heineken",
+              "details": "Presença constante em eventos e anúncios, especialmente em mercados europeus onde a cerveja é culturalmente relevante.",
+              "imagem": "assets/images/sponsorsPage/heineken-logo.png"
+            }
+          ],
+          "influential_sectors": {
+            "Avição": "Alta relevância",
+            "Apostas Esportivas": "Em crescimento",
+            "Marcas Esportivas": "Forte presença"
+          }
+        },
+        {
+          "name": "NBB (Novo Basquete Brasil)",
+          "description": "Principal liga brasileira, com 58 milhões de fãs e crescente apelo comercial. A LNB oferece plataformas de marketing personalizadas para marcas.",
+          "sponsors": [
+            {
+              "name": "Caixa e Banco do Brasil",
+              "details": "Bancos tradicionais que patrocinam times como Flamengo e Franca, com exposição em uniformes e quadras.",
+              "imagem": "assets/images/sponsorsPage/caixa-bb-logo.png"
+            },
+            {
+              "name": "Brahma",
+              "details": "Marca de cerveja com forte presença em jogos, anúncios e ativações, como promoções em ginásios.",
+              "imagem": "assets/images/sponsorsPage/brahma-logo.png"
+            },
+            {
+              "name": "Ipanema",
+              "details": "Farmácia com visibilidade em quadras e eventos, focada no público local.",
+              "imagem": "assets/images/sponsorsPage/ipanema-logo.png"
+            },
+            {
+              "name": "BMG Banco",
+              "details": "Patrocinador máster, com exposição em todas as quadras e campanhas de mídia.",
+              "imagem": "assets/images/sponsorsPage/bmg-logo.png"
+            }
+          ],
+          "influential_sectors": {
+            "Serviços Financeiros": "Alta relevância",
+            "Bebidas": "Forte presença",
+            "iGaming": "Em crescimento"
+          },
+          "impact": "97% dos fãs do NBB compraram produtos de patrocinadores nos últimos seis meses, mostrando forte retorno para as marcas."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Treino",
+      "banner": {
+        "id": 5,
+        "content": "https://banner5.png"
+      },
+      "videos": [
+        {
+          "id": 1,
+          "link": "https://www.youtube.com/embed/8Mx1SM_WrLE?si=_BDpNXoXYmPe-ABQ",
+          "title": "Driblar | Basquete",
+          "desc": "Neste vídeo, você vai aprender os fundamentos básicos do drible no basquete. Este é o primeiro vídeo do capítulo 'Drible'. Quarto capítulo do programa de basquete, esta seção passa pelas técnicas e dicas essenciais para driblar e bater bola corretamente durante uma partida...",
+          "category": "Drible",
+          "creator": "Sikana"
+        },
+        {
+          "id": 2,
+          "link": "https://www.youtube.com/embed/6rc2GX-zSRs?si=2krBJtx4eFMmXUFb",
+          "title": "Tipos de drible | Basquete",
+          "desc": "Neste vídeo, você vai aprender três tipos diferentes de drible, isto é, bater bola alto, baixo e com mudança de ritmo. Este é o quarto vídeo do capítulo 'Drible'. Quarto capítulo do programa de basquete...",
+          "category": "Drible",
+          "creator": "Sikana"
+        },
+        {
+          "id": 3,
+          "link": "https://www.youtube.com/embed/YayY4TQSWy8?si=17GgNZc9oVPjXcwr",
+          "title": "Drible: quando e como usar | Basquete",
+          "desc": "Neste vídeo, você vai aprender como e quando driblar e conduzir a bola pela quadra. Este é o segundo vídeo do capítulo 'Drible'. Quarto capítulo do programa de basquete, esta seção passa pelas técnicas e dicas essenciais para driblar e bater bola corretamente durante uma partida...",
+          "category": "Drible",
+          "creator": "Sikana"
+        },
+        {
+          "id": 4,
+          "link": "https://www.youtube.com/embed/l5DLm-j6Ris?si=B6evDQv_2SGxBG_A",
+          "title": "Drible: parada e saída | Basquete",
+          "desc": "Neste vídeo, você vai aprender a parar e sair corretamente enquanto faz o drible. Este é o terceiro vídeo do capítulo 'Drible'. Quarto capítulo do programa de basquete, esta seção passa pelas técnicas e dicas essenciais para driblar e bater bola corretamente durante uma partida.",
+          "category": "Drible",
+          "creator": "Sikana"
+        },
+        {
+          "id": 5,
+          "link": "https://www.youtube.com/embed/LSXUGARA1EM?si=QlGn5SBpOyJckDkw",
+          "title": "Drible cruzado | Basquete",
+          "desc": "Neste vídeo, você vai aprender a fazer um drible cruzado no basquete, também conhecido como crossover. Este é o quinto vídeo do capítulo 'Drible'. Quarto capítulo do programa de basquete, esta seção passa pelas técnicas e dicas essenciais para driblar e bater bola corretamente durante uma partida.",
+          "category": "Drible",
+          "creator": "Sikana"
+        },
+        {
+          "id": 6,
+          "link": "https://www.youtube.com/embed/LSXUGARA1EM?si=QlGn5SBpOyJckDkw",
+          "title": "Trocar de mão por trás | Basquete",
+          "desc": "Neste vídeo, você vai aprender a fazer uma troca de mão por trás do corpo, isto é, passar a bola de basquete por trás do corpo. Este é o sexto vídeo do capítulo 'Drible'. Quarto capítulo do programa de basquete, esta seção passa pelas técnicas e dicas essenciais para driblar e bater bola corretamente durante uma partida.",
+          "category": "Drible",
+          "creator": "Sikana"
+        },
+        {
+          "id": 7,
+          "link": "https://www.youtube.com/embed/cFvKE8NXcww?si=NUoB-g1X_ddE0eLU",
+          "title": "Drible cruzado sob as pernas | Basquete",
+          "desc": "Neste vídeo, você vai aprender a fazer o drible cruzado sob as pernas, isto é, passar a bola embaixo das pernas. Este é o sétimo vídeo do capítulo 'Drible'. Quarto capítulo do programa de basquete, esta seção passa pelas técnicas e dicas essenciais para driblar e bater bola corretamente durante uma partida.",
+          "category": "Drible",
+          "creator": "Sikana"
+        },
+        {
+          "id": 8,
+          "link": "https://www.youtube.com/embed/mVmdIt5okMw?si=OW48XtRPM7pFdrzH",
+          "title": "Drible com giro | Basquete",
+          "desc": "Neste vídeo, você vai aprender a fazer um drible com giro, também conhecido como drible cruzado com inversão. Este é o último vídeo do capítulo 'Drible'. Quarto capítulo do programa de basquete, esta seção passa pelas técnicas e dicas essenciais para driblar e bater bola corretamente durante uma partida..",
+          "category": "Drible",
+          "creator": "Comunidade Baska"
+        },
+        {
+          "id": 9,
+          "link": "https://www.youtube.com/embed/Nys6iOhtjp0?si=1nZPz2VOEete7955",
+          "title": "NUNCA MAIS PERCA A BOLA ENQUANTO ESTIVER DRIBLANDO!",
+          "desc": "Fala Comunidade Baska, resolvi trazer hoje um vídeo mais básico pra ajudar a galera que esta iniciando no basquete. Mesmo que você já esteja em um nível avançado...",
+          "category": "Drible",
+          "creator": "Comunidade Baska"
+        },
+        {
+          "id": 10,
+          "link": "https://www.youtube.com/embed/NxUMg65z2ZQ?si=FDJIfcYJIlwRJ3yJ",
+          "title": "Arremesso | Basquete",
+          "desc": "Neste vídeo, você vai conhecer as técnicas para um bom arremesso no basquete. Este é o primeiro vídeo do capítulo 'Arremesso', a quinta parte do programa de basquete. Neste capítulo você aprende os fundamentos básicos para arremessos e suas variações como bandeja, chutes longos, lance livres, saltos, etc.",
+          "category": "Arremesso",
+          "creator": "Sikana"
+        },
+        {
+          "id": 11,
+          "link": "https://www.youtube.com/embed/bI6CLvL-QMU?si=UtpuHbujxeoxAHVB",
+          "title": "Arremesso com salto | Basquete",
+          "desc": "Neste vídeo, você vai aprender a fazer um arremesso com salto — o jump shot. Este arremesso te dá mais espaço para marcar pontos mesmo em frente um marcador. Este é o segundo vídeo do capítulo 'Arremesso', a quinta parte do programa de basquete. Neste capítulo você aprende os fundamentos básicos para arremessos e suas variações como bandeja, chutes longos, lance livres, saltos, etc.",
+          "category": "Arremesso",
+          "creator": "Sikana"
+        },
+        {
+          "id": 12,
+          "link": "https://www.youtube.com/embed/K7l-4EAHiVw?si=bMjwfhTJVN5oserS",
+          "title": "Lance livre | Basquete",
+          "desc": "Neste vídeo, você vai aprender a cobrar um lance livre, isto é, um tipo de cobrança de falta muito comum no basquete. Este é o último vídeo do capítulo 'Arremesso', a quinta parte do programa de basquete. Neste capítulo você aprende os fundamentos básicos para arremessos e suas variações como bandeja, chutes longos, lance livres, saltos, etc.",
+          "category": "Arremesso",
+          "creator": "Sikana"
+        },
+        {
+          "id": 13,
+          "link": "https://www.youtube.com/embed/1hE5HD1ubFM?si=Mbv889p2xLN5HMq0",
+          "title": "Gancho | Basquete",
+          "desc": "Neste vídeo, você vai aprender a fazer um gancho, isto é, um arremesso muito mais vertical que o comum. Este é o último vídeo do capítulo 'Bandeja e gancho', Esta sequência, com vídeos dedicados ao movimento de bandeja e gancho para cesta, compõe a sexta parte do programa de basquete.",
+          "category": "Arremesso",
+          "creator": "Sikana"
+        },
+        {
+          "id": 14,
+          "link": "https://www.youtube.com/embed/igRdMUV0RsA?si=b0t1gWcac9nrpJ1U",
+          "title": "Passe de peito e passe picado | Basquete",
+          "desc": "Neste vídeo, você vai aprender a fazer um passe direto ou picado com duas mãos. Estes passes são utilizados na maior parte das situações de jogo. Este é o primeiro vídeo do capítulo 'Passe'. Neste terceiro capítulo do programa de basquete você pode aprender as técnicas básicas do passe para aplicar em jogo.",
+          "category": "Passe",
+          "creator": "Sikana"
+        },
+        {
+          "id": 15,
+          "link": "https://www.youtube.com/embed/OuCoFgLmWH4?si=MA8361JMhG6HLvTv",
+          "title": "Receber um passe | Basquete",
+          "desc": "Neste vídeo, você vai aprender a receber um passe feito por um companheiro de equipe. Este é o segundo vídeo do capítulo 'Passe'. Neste  terceiro capítulo do programa de basquete você pode aprender as técnicas básicas do passe para aplicar em jogo.",
+          "category": "Passe",
+          "creator": "Sikana"
+        },
+        {
+          "id": 16,
+          "link": "https://www.youtube.com/embed/H1cRmtTRBrE?si=xctuh5z_gAWJVExm",
+          "title": "Passe sobre a cabeça | Basquete",
+          "desc": "Neste vídeo, você vai aprender a fazer um passe com as duas mãos sobre a cabeça. Este é o terceiro vídeo do capítulo 'Passe'. Neste terceiro capítulo do programa de basquete você pode aprender as técnicas básicas do passe para aplicar em jogo.",
+          "category": "Passe",
+          "creator": "Sikana"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Ligas",
+      "banner": {
+        "id": 6,
+        "content": "BBN.png"
+      },
+      "ligas": [
+        {
+          "nome": "NBA",
+          "imagem": "assets/images/leaguesPage/nba.png",
+          "pais": "Estados Unidos",
+          "fundacao": 1946,
+          "times": 30,
+          "temporada": "Outubro a Junho",
+          "formato": {
+            "descricao": "Temporada regular com 82 jogos. Os 8 melhores de cada conferência vão aos playoffs. Campeões do Leste e Oeste disputam as finais.",
+            "playoffs": "Melhor de 7 jogos"
+          },
+          "maior_campeao": "Boston Celtics (18 títulos)",
+          "jogadores_famosos": [
+            "Michael Jordan",
+            "LeBron James",
+            "Stephen Curry",
+            "Kobe Bryant"
+          ],
+          "site": "https://www.nba.com",
+          "criado_por": "Board of Governors da Basketball Association of America (BAA), que depois se tornou a NBA"
+        },
+        {
+          "nome": "Euroliga",
+          "imagem": "../images/leaguesPage/euroliga.png",
+          "continente": "Europa",
+          "fundacao": 1958,
+          "times": 18,
+          "temporada": "Outubro a Maio",
+          "formato": {
+            "descricao": "Todos contra todos em pontos corridos. Top 8 avançam aos playoffs (melhor de 5). Final Four decide o campeão.",
+            "final_four": true
+          },
+          "maior_campeao": "Real Madrid (11 títulos)",
+          "clubes_famosos": [
+            "Real Madrid",
+            "Olympiacos",
+            "FC Barcelona",
+            "Fenerbahçe"
+          ],
+          "jogadores_famosos": [
+            "Vassilis Spanoulis",
+            "Luka Dončić",
+            "Sergio Llull"
+          ],
+          "site": "https://www.euroleaguebasketball.net",
+          "criado_por": "FIBA Europe (originalmente), hoje organizada pela Euroleague Basketball"
+        },
+        {
+          "nome": "NBB",
+          "imagem": "assets/images/leaguesPage/nbb.png",
+          "pais": "Brasil",
+          "fundacao": 2008,
+          "times": "15 a 18 (varia por temporada)",
+          "temporada": "Outubro a Maio",
+          "formato": {
+            "descricao": "Temporada regular em pontos corridos. Playoffs com os melhores classificados. Finais em melhor de 5 jogos.",
+            "playoffs": "Melhor de 5 jogos"
+          },
+          "maior_campeao": "Flamengo",
+          "clubes_famosos": [
+            "Flamengo",
+            "Franca",
+            "Bauru",
+            "Minas",
+            "São Paulo"
+          ],
+          "jogadores_famosos": [
+            "Marcelinho Machado",
+            "Alex Garcia",
+            "Leandro Barbosa"
+          ],
+          "site": "https://lnb.com.br",
+          "criado_por": "Liga Nacional de Basquete (LNB), com apoio da Confederação Brasileira de Basketball (CBB)"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Sobre Nós",
+      "banner": {
+        "id": 8,
+        "content": "https://banner8.png"
+      },
+      "titles": [
+        {
+          "id": 1,
+          "content": "Visão Geral",
+          "text-id": 1
+        },
+        {
+          "id": 2,
+          "content": "Equipe",
+          "text-id": null
+        }
       ],
       "texts": [
         {
@@ -510,6 +768,46 @@
           "image": "assets/images/aboutPage/gustavo.jpg",
           "responsabilities": "Páginas de Ligas, Página Sobre Nós.",
           "text": "Estudante de Sistemas de Informação e entusiasta de tecnologia desde cedo, sempre encontrei no esporte — especialmente no basquete — uma forma de me expressar e crescer. Meu contato com o basquete começou na adolescência, quando um amigo me levou para assistir a uma partida local. Desde então, me apaixonei pelo jogo, pelos fundamentos e pela energia das quadras. Mesmo com a rotina puxada dos estudos e projetos, nunca deixei de acompanhar os jogos e aprender com o esporte. Hoje, tenho a chance de unir minhas duas paixões no projeto BBN, onde exploramos como a programação pode impulsionar o basquete com inovação e criatividade."
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "users": [
+        {
+          "id": 1,
+          "name": "Rebeca N. Moreira da Costa",
+          "email": "rebeca.moreira@gmail.com",
+          "password": "123456",
+          "role": "admin"
+        },
+        {
+          "id": 2,
+          "name": "Daniel Isaac V. Rodrigues",
+          "email": "daniel.rodrigues@gmail.com",
+          "password": "123456",
+          "role": "admin"
+        },
+        {
+          "id": 3,
+          "name": "Guilherme Henrique Costa",
+          "email": "guilherme.costa@gmail.com",
+          "password": "123456",
+          "role": "admin"
+        },
+        {
+          "id": 4,
+          "name": "Gustavo Fortini T. Moreira",
+          "email": "gustavo.moreira@gmail.com",
+          "password": "123456",
+          "role": "admin"
+        },
+        {
+          "id": 5,
+          "email": "gabriel.madureira@gmail.com",
+          "password": "1234",
+          "role": "user",
+          "name": "gabriel.madureira"
         }
       ]
     }

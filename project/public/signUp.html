@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
+    <title>Cadastro</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
@@ -12,40 +12,34 @@
 </head>
 <body>
     <section class="content">
-
-
-
         <div class="login-section">
-
             <div class="login-form">
-                <h1 class="title">Sing In</h1>
+                <h1 class="title">Cadastro</h1>
 
                 <div class="inputs">
                     <div class="input-section">
-                        <label for="email">Insira seu email:</label>
-                        <input type="email" name="email" class="email-input" id="email-input" placeholder="  exemplo@gmail.com">
+                        <label for="email-input">Insira seu email:</label>
+                        <input type="email" name="email" class="email-input" id="email-input" placeholder="  exemplo@gmail.com" required>
                     </div>
                     <div class="input-section">
-                        <label for="password">Insira sua senha:</label>
-                        <input type="email" name="email" class="password-input" id="password-input" placeholder="  *****">
+                        <label for="password-input">Insira sua senha:</label>
+                        <input type="password" name="password" class="password-input" id="password-input" placeholder="  *****" required>
                     </div>
                     <div class="input-section">
-                        <label for="password">Confirme sua senha:</label>
-                        <input type="email" name="email" class="password-input" id="password-input" placeholder="  *****">
+                        <label for="confirm-password-input">Confirme sua senha:</label>
+                        <input type="password" name="confirm-password" class="password-input" id="confirm-password-input" placeholder="  *****" required>
                     </div>
                 </div>
 
-                <button class="btn-login-send">
-                    Entrar
+                <button type="submit" class="btn-login-send" id="signupButton">
+                    Cadastrar
                 </button>
             </div>
-            
         </div>
 
         <div class="image">
             <img src="assets/images/shai.webp" alt="Shai Gilgeous-Alexander">
         </div>
-        
     </section>
 
     <footer class="footer">
@@ -99,5 +93,7 @@
             </div>
         </div>
     </footer>
+
+    <script src="assets/js/signup.js"></script>
 </body>
 </html>
