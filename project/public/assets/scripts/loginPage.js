@@ -24,10 +24,12 @@ document.addEventListener('DOMContentLoaded', () => {
                     role: user.role
                 }));
 
-                window.location.href = '/index.html';
+                window.location.href = './index.html';
+            } else {
+                alert("Email e/ou senha inválidos.")
             }
         } catch (error) {
-            console.error('Erro ao fazer login:', error);
+            alert('Erro ao fazer login:', error);
         }
     });
 }); 

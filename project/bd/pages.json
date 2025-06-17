@@ -808,6 +808,13 @@
           "password": "1234",
           "role": "user",
           "name": "gabriel.madureira"
+        },
+        {
+          "id": 6,
+          "email": "becanmc@gmail.com",
+          "password": "123456",
+          "role": "user",
+          "name": "becanmc"
         }
       ]
     }
