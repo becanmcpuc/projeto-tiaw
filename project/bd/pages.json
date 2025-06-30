@@ -317,26 +317,26 @@
           "description": "O time que marcar mais gols nesse tempo será declarado vencedor. Em caso de empate, o jogo poderá, por acordo dos capitães, ser retomado até que outro gol seja marcado."
         }
       ],
-      "players positions": [
+      "players_positions": [
         {
           "name": "Armador",
-          "description": ""
+          "description": "O armador é o responsável por organizar o time em quadra, conduzindo a bola e iniciando as jogadas."
         },
         {
           "name": "Ala-Armador",
-          "description": ""
+          "description": "O ala-armador tem como principal função pontuar, especialmente com arremessos de longa distância."
         },
         {
           "name": "Ala",
-          "description": ""
+          "description": "O ala é um jogador versátil, capaz de atacar, defender e auxiliar na armação das jogadas."
         },
         {
           "name": "Ala-Pivô",
-          "description": ""
+          "description": "O ala-pivô atua próximo ao garrafão, combinando força física com arremessos de média distância."
         },
         {
           "name": "Pivô",
-          "description": ""
+          "description": "O pivô é o jogador mais alto e forte, que domina a área próxima à cesta, sendo crucial nos rebotes, na defesa e nas finalizações perto do aro."
         }
       ],
       "points": [
