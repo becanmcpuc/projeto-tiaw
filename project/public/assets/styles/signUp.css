@@ -115,6 +115,11 @@ input:focus{
     align-items: center;
 }
 
+footer a{
+    color: white;
+    text-decoration: none;
+}
+
 .footer .footer-information, .footer-navigation{
     width: 40%;
     height: 65%;

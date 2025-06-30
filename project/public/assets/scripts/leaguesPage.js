@@ -57,7 +57,7 @@ ligas.forEach((liga) => {
   const div = document.createElement("div");
   div.className = "liga";
   div.innerHTML = `
-    <img src="imgs/${liga.imagem}" alt="${liga.nome} logo" class="logo">
+    <img src="assets/images/leaguesPage/${liga.imagem}" alt="${liga.nome} logo" class="logo">
     <h2>${liga.nome}</h2>
     <p><strong>Fundação:</strong> ${liga.fundacao}</p>
     <p><strong>País/Continente:</strong> ${liga.pais || liga.continente}</p>

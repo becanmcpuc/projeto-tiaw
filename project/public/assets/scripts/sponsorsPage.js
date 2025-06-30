@@ -1,7 +1,7 @@
 const leaguesData = {
   "leagues": [
     {
-      "name": "NBA (National Basketball Association)",
+      "name": "NBA ",
       "description": "A liga de basquete mais assistida do mundo, com faturamento de patrocínios de US$ 1,66 bilhão na temporada 2022/2023, crescendo 1,3% no ano seguinte.",
       "sponsors": [
         {
@@ -64,7 +64,7 @@ const leaguesData = {
       }
     },
     {
-      "name": "NBB (Novo Basquete Brasil)",
+      "name": "NBB ",
       "description": "Principal liga brasileira, com 58 milhões de fãs e crescente apelo comercial. A LNB oferece plataformas de marketing personalizadas para marcas.",
       "sponsors": [
         {
@@ -105,7 +105,7 @@ const leaguesData = {
     function updateDisplay() {
       currentLeagueIndex = document.getElementById('leagueSelect').value;
       const league = leaguesData.leagues[currentLeagueIndex];
-      document.querySelector('.header h1').textContent = `Patrocinadores - ${league.name}`;
+      document.getElementById('leagueTitle').textContent = `Patrocinadores - ${league.name}`;
       currentSponsorIndex = 0; // Reseta para o primeiro patrocinador ao trocar de liga
       updateSponsors();
     }

@@ -5,7 +5,7 @@
     "ligas": [
         {
             "nome": "NBA",
-            "imagem": "assets/images/leaguesPage/nba.png",
+            "imagem": "../images/leaguesPage/nba.png",
             "pais": "Estados Unidos",
             "fundacao": 1946,
             "times": 30,
