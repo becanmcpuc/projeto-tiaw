@@ -3,10 +3,9 @@ Projeto referente à matéria Projeto Interdiciplinar: Aplicações Web. O tema 
 
 ## Integrantes
 1. Daniel Isaac Veiga Rodrigues - 1581560
-2. Gabriel Madureira da Silva Ferreira  - 884461
-3. Guilherme Henrique Costa de Jesus - 892662
-4. Gustavo Fortini Teixeira Moreira - 1583509
-5. Rebeca N. Moreira da Costa - 899053
+2. Guilherme Henrique Costa de Jesus - 892662
+3. Gustavo Fortini Teixeira Moreira - 1583509
+4. Rebeca N. Moreira da Costa - 899053
 
 ## Problemas
 Os problemas que o blog visa solucionar, são:
